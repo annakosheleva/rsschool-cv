@@ -13,6 +13,10 @@ body {
     padding-bottom: 40px;
 }
 
+pre {
+    background-color: #bcbfc4;
+}
+
 .wrapper {
     background-color: #fff;
     display: flex;
