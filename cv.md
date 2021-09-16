@@ -40,3 +40,18 @@ function M(n) {
   return n - F(M(n - 1));
 }
 ```
+***
+### Courses:
+- Frontend Web-Developer in [GeekBrains](https://gb.ru "Я ссылка")
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru) (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+***
+### Education:
+Herzen State Pedagogical University of Russia
+
+Faculty of Geography
+
+2005-2010
+***
+### Languages:
+English - В1
